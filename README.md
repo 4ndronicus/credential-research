@@ -15,8 +15,8 @@ This repository will contain statistics from each of the database dumps that I a
 
 Here are the top 1 Million most common passwords of each data dump.
 
-Database | Filename
--------------------
+Database          | Filename
+--------------------------------------------------------
 BreachCompilation | breach-compilation-top-1-million.csv
 
 # Disclaimer #
