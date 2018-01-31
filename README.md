@@ -2,7 +2,7 @@
 
 # Description #
 
-As time goes on, there are more and more credential dumps appearing online.  There are databases from LinkedIn, Adobe, MySpace, Snapchat, Tumblr, Twitter, and many others.  In an effort to understand peoples' password habits, I am importing them into my own database.  From there, I can answer questions like the following:
+As time goes on, there are more and more credential dumps appearing online.  There are databases from LinkedIn, Adobe, MySpace, Snapchat, Tumblr, Twitter, and many others.  In an effort to understand peoples' password habits, build word lists for weak password checks, etc., I am going to be doing some research on each.  From there, I can answer questions such as the following:
 
 What are the most common passwords?
 How much password reuse occurs?
